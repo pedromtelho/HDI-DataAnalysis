@@ -1,2 +1,2 @@
-# Projeto-de-ciencia-dos-dados
-Projeto sobre analise de IDHas em relacao a outras variaveis.
+# Projeto 1 de ciência dos dados
+Projeto sobre analise de IDH's de diversos países em relação a outras variáveis.
